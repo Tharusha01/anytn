@@ -1,7 +1,7 @@
-aiohttp
-hachoir
+OpenCC
 Pillow
-https://github.com/CW4RR10R/pyrogram/archive/asyncio.zip
-requests
-tgcrypto
+Pyrogram
+TgCrypto
+ffmpeg-python
 youtube-dl
+wget
